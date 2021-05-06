@@ -8,4 +8,4 @@
 [Pig Game](https://eliezerambion-pig-game.netlify.app/)
 
 **Check out my other projects here:**
-[Eli's Projects](https://app.netlify.com/teams/eliezerambion/sites)
+[Eli's Projects](https://eliezerambion-portfolio.netlify.app/)
